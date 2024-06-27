@@ -1,0 +1,71 @@
+body {
+    background: radial-gradient( #eeaeca,#94bbe9);
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.navbar-custom {
+    background-color: transparent !important; /* semi-transparent black background */
+    backdrop-filter: blur(0px); /* apply blur effect */
+}
+.btn1 {
+    margin-top: 20px;
+    width: 10vw;
+}
+.head {
+    color: #fff;
+    font-size: 60px;
+}
+.content {
+    width: 40%;
+}
+.content p {
+    color: #fff;
+}
+.section {
+    /* background: radial-gradient(#b021b0, #3a053a); */
+    padding-top: 50px;
+    padding-bottom: 150px;
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    background-color: #80438f !important;
+    color: #fff !important;
+    border: none !important;
+}
+.section h1 {
+    color: #fff;
+    padding-bottom: 40px;
+    
+}
+.card {
+    cursor: pointer;
+}
+.frame {
+    padding: 50px;
+    width: 80%;
+    background-color: rgba(247, 247, 247, 0.5) !important; /* semi-transparent black background */
+    backdrop-filter: blur(0px); /* apply blur effect */
+    border-radius: 20px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+.pdf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.bi {
+    height: 100px;
+}
+.card1 {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}

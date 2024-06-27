@@ -1,0 +1,9 @@
+google-generativeai
+django
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+google-api-python-client
+langchain-community
